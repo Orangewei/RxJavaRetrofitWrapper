@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
+/**
+ * 测试activity
+ */
 public class BActivity extends AppCompatActivity {
 
     @Override
